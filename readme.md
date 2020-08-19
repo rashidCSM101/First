@@ -68,3 +68,60 @@ SELECT * FROM Users WHERE Name ="" or ""="" AND Pass ="" or ""=""
 # <i><br><u>ARTICAL 2</i></u>
 
 
+<br><br>
+
+
+# <b> From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?</b>
+
+
+## AUTHORS/RESEARCHERS:
+1. Ang Jia
+2. Xi Xu
+3. Wenying Wei
+4. Di Cui
+5. Zijiang Yang
+6. Kai ye
+7. Ting liu
+
+
+
+> Venue.Tue 30 Jun 2020 16:30 - 16:45 at MSR:Zoom2 - Visions & Reflections \
+**_Chair(s): Venera Arnaoudova_** 
+
+<br>
+
+### [LINK URL](https://2020.msrconf.org/details/msr-2020-papers/45/From-Innovations-to-Prospects-What-Is-Hidden-Behind-Cryptocurrencies-)
+<hr><br><br>
+
+
+
+
+# Introduction
+
+## <b>Cryptocurrency</b>
+
+
+A cryptocurrency (or crypto currency) is a digital asset designed to work as a medium of exchange wherein individual coin ownership records are stored in a ledger existing in a form of computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership.[1][2] It typically does not exist in physical form (like paper money) and is typically not issued by a central authority. Cryptocurrencies typically use decentralized control as opposed to centralized digital currency and central banking systems
+
+<br>
+
+<i><b>Bitcoin</b>, first released as open-source software in 2009, is the first decentralized cryptocurrency.[5] Since the release of bitcoin, over 6,000 altcoins (alternative variants of bitcoin, or other cryptocurrencies) have been created.
+</i>
+
+
+
+## <b>Bitcoin
+
+>Bitcoin is a cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto and started in 2009, when its implementation was released as 
+(OSS) open-source software.
+
+<i>(Open-source software (OSS) is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software to anyone and for any purpose)</i>
+
+
+## <b>Altcoin
+
+>The term altcoin has various similar definitions. Stephanie Yang of The Wall Street Journal defined altcoins as "alternative digital currencies," while Paul Vigna, also of The Wall Street Journal, described altcoins as alternative versions of bitcoin. Aaron Hankins of MarketWatch refers to any cryptocurrencies other than bitcoin as altcoins.
+
+
+
+
