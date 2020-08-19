@@ -125,3 +125,42 @@ A cryptocurrency (or crypto currency) is a digital asset designed to work as a m
 
 
 
+
+<br><b><br><b>
+
+
+
+# <i><br><u>ARTICAL 3</i></u>
+<br><b><br><br>
+
+
+# <b> An Empirical Study on Quality of AndroidApplications written in Kotlin language</b>
+<br><br>
+
+
+## AUTHORS/RESEARCHERS:<br>
+1. Bruno Gois Mateus
+2. Matias Martinez
+<br><br>
+
+
+> Venue.Sat 11 Jul 2020 15:32 - 15:40 at Baekje - A25-Android 
+Testing **_Chair(s): Ting Su_**
+
+
+
+<br>[LINK URL](https://2020.icse-conferences.org/details/icse-2020-Journal-First/12/An-Empirical-Study-on-Quality-of-AndroidApplications-written-in-Kotlin-language)
+
+<br>
+
+
+
+# Introduction
+
+
+In this article researchers tried to find that wether adoption of Kotlin for Android applications is best in sense of Code Quality and how much developers adopted Kotlin for their open source projects
+Results
+> 12.26% out of 2167 open source applications were totally or partially written in Kotlin
+
+
+> Adoption of Kotlin for Android applications increased the code quality compared with Java.
