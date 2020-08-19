@@ -1,4 +1,11 @@
-# <i>ARTICAL 1</i>
+## Sayed Rashid Ali Shah
+## 2K18/CSM/101
+<br><br><br>
+
+
+
+
+# <i><u>ARTICAL 1</i></u>
 # DeepSQLi: Deep Semantic Learning for Testing SQL Injection
 ## AUTHORS/RESEARCHERS:
 <br>
@@ -51,3 +58,13 @@ sql = 'SELECT * FROM Users WHERE Name ="' + uName + '" AND Pass ="' + uPass + '"
 <br><br>
 SELECT * FROM Users WHERE Name ="" or ""="" AND Pass ="" or ""=""
 <br><br>The SQL above is valid and will return all rows from the "Users" table, since OR ""="" is always TRUE.
+
+
+
+
+
+
+
+# <i><br><u>ARTICAL 2</i></u>
+
+
